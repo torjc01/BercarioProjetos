@@ -9,3 +9,5 @@ Projetos em fase de ideação e maturação, não disponíveis ainda para ser cr
 - [Espelho Mágico (Mirroir Magique)](MirroirMagique.md)
 
 - [Verifiable Crendentials Freemasonry](VerifCredMasonry.md)
+
+- [6502 Computer](6502Computer.md)
