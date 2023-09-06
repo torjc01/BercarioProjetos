@@ -51,7 +51,7 @@ Linhas 11, 25, 800, 801 nas proximidades de casa
 - Jours fériés
 - Dias de feriado 
 - Aniversarios  
-- Calendario Liturgico
+- Calendario Liturgico da Igreja Catolica
 
 ### Aniversarios 
 Banco de dados guardando as informaçoes de pessoas aniversariantes.  Estas pessoas poderao ter diversos niveis de intimidade e importancia, que serao utilizados para definir a exibicao da informaçao no calendario. 
