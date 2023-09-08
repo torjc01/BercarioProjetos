@@ -7,6 +7,12 @@ Projeto para desenvolvimento pessoal de Hyperledger Aries, bem como de SSI.
 https://github.com/hyperledger/aries-cloudagent-python/tree/main
 
 
+**AJF** 
+
+https://github.com/hyperledger/aries-framework-javascript
+
+https://github.com/hyperledger/aries-mobile-agent-react-native
+
 **Laurence de Jong**
 
 https://ldej.nl/post/becoming-a-hyperledger-aries-developer-part-1-terminology/
