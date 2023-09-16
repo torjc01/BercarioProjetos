@@ -1,0 +1,3 @@
+# Machine de cryptomonnaie 
+
+Projet de création d'une machine qui dispense de la crypto monnaie...  
