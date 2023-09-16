@@ -39,3 +39,14 @@ https://kctheservant.medium.com/demonstration-of-hyperledger-aries-cloud-agent-6
 
 Connection-Less Proof Requests with ACA-Py, by Emiliano Suñé   
 https://hackmd.io/@esune/H1q5z-62Y
+
+
+# Possibilities of collaboration
+
+https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0440-kms-architectures
+
+https://github.com/hyperledger/aries-rfcs/tree/main/features/0042-lox
+
+https://github.com/sovrin-foundation/mayaguez
+
+https://github.com/hyperledger/aries-rfcs/tree/main/features/0066-non-repudiable-cryptographic-envelope
